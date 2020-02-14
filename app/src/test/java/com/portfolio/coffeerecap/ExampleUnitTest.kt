@@ -1,4 +1,4 @@
-package com.portofolio.coffeerecap
+package com.portfolio.coffeerecap
 
 import org.junit.Test
 
